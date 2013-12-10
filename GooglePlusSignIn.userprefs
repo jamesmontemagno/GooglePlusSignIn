@@ -1,9 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GooglePlusSignIn/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="GooglePlusSignIn/MainActivity.cs" Line="145" Column="37" />
+      <File FileName="GooglePlusSignIn/MainActivity.cs" Line="73" Column="5" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GooglePlusSignIn" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+            <Node name="ComponentReferenceFolder" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>

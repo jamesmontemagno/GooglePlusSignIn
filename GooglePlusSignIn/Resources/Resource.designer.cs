@@ -136,110 +136,116 @@ namespace GooglePlusSignIn
 		public partial class Attribute
 		{
 			
-			// aapt resource value: 0x7f010001
-			public const int cameraBearing = 2130771969;
+			// aapt resource value: 0x7f010000
+			public const int adSize = 2130771968;
 			
-			// aapt resource value: 0x7f010002
-			public const int cameraTargetLat = 2130771970;
+			// aapt resource value: 0x7f010001
+			public const int adUnitId = 2130771969;
 			
 			// aapt resource value: 0x7f010003
-			public const int cameraTargetLng = 2130771971;
+			public const int cameraBearing = 2130771971;
 			
 			// aapt resource value: 0x7f010004
-			public const int cameraTilt = 2130771972;
+			public const int cameraTargetLat = 2130771972;
 			
 			// aapt resource value: 0x7f010005
-			public const int cameraZoom = 2130771973;
-			
-			// aapt resource value: 0x7f010011
-			public const int circleColor = 2130771985;
-			
-			// aapt resource value: 0x7f010022
-			public const int circularProgressBarStyle = 2130772002;
-			
-			// aapt resource value: 0x7f01001a
-			public const int circular_gravity = 2130771994;
-			
-			// aapt resource value: 0x7f010020
-			public const int circular_indeterminate = 2130772000;
-			
-			// aapt resource value: 0x7f010021
-			public const int circular_indeterminate_interval = 2130772001;
-			
-			// aapt resource value: 0x7f01001d
-			public const int circular_marker_progress = 2130771997;
-			
-			// aapt resource value: 0x7f01001c
-			public const int circular_progress = 2130771996;
-			
-			// aapt resource value: 0x7f01001f
-			public const int circular_progress_background_color = 2130771999;
-			
-			// aapt resource value: 0x7f01001e
-			public const int circular_progress_color = 2130771998;
-			
-			// aapt resource value: 0x7f01001b
-			public const int circular_stroke_width = 2130771995;
-			
-			// aapt resource value: 0x7f010018
-			public const int indeterminate = 2130771992;
-			
-			// aapt resource value: 0x7f010019
-			public const int indeterminate_interval = 2130771993;
-			
-			// aapt resource value: 0x7f010016
-			public const int innerSize = 2130771990;
-			
-			// aapt resource value: 0x7f010000
-			public const int mapType = 2130771968;
-			
-			// aapt resource value: 0x7f010010
-			public const int max = 2130771984;
-			
-			// aapt resource value: 0x7f010017
-			public const int pinned = 2130771991;
-			
-			// aapt resource value: 0x7f010013
-			public const int pinnedDrawable = 2130771987;
-			
-			// aapt resource value: 0x7f01000f
-			public const int progress = 2130771983;
-			
-			// aapt resource value: 0x7f01000e
-			public const int progressButtonStyle = 2130771982;
-			
-			// aapt resource value: 0x7f010012
-			public const int progressColor = 2130771986;
-			
-			// aapt resource value: 0x7f010015
-			public const int shadowDrawable = 2130771989;
+			public const int cameraTargetLng = 2130771973;
 			
 			// aapt resource value: 0x7f010006
-			public const int uiCompass = 2130771974;
+			public const int cameraTilt = 2130771974;
 			
 			// aapt resource value: 0x7f010007
-			public const int uiRotateGestures = 2130771975;
+			public const int cameraZoom = 2130771975;
 			
-			// aapt resource value: 0x7f010008
-			public const int uiScrollGestures = 2130771976;
+			// aapt resource value: 0x7f010013
+			public const int circleColor = 2130771987;
 			
-			// aapt resource value: 0x7f010009
-			public const int uiTiltGestures = 2130771977;
+			// aapt resource value: 0x7f010024
+			public const int circularProgressBarStyle = 2130772004;
 			
-			// aapt resource value: 0x7f01000a
-			public const int uiZoomControls = 2130771978;
+			// aapt resource value: 0x7f01001c
+			public const int circular_gravity = 2130771996;
 			
-			// aapt resource value: 0x7f01000b
-			public const int uiZoomGestures = 2130771979;
+			// aapt resource value: 0x7f010022
+			public const int circular_indeterminate = 2130772002;
+			
+			// aapt resource value: 0x7f010023
+			public const int circular_indeterminate_interval = 2130772003;
+			
+			// aapt resource value: 0x7f01001f
+			public const int circular_marker_progress = 2130771999;
+			
+			// aapt resource value: 0x7f01001e
+			public const int circular_progress = 2130771998;
+			
+			// aapt resource value: 0x7f010021
+			public const int circular_progress_background_color = 2130772001;
+			
+			// aapt resource value: 0x7f010020
+			public const int circular_progress_color = 2130772000;
+			
+			// aapt resource value: 0x7f01001d
+			public const int circular_stroke_width = 2130771997;
+			
+			// aapt resource value: 0x7f01001a
+			public const int indeterminate = 2130771994;
+			
+			// aapt resource value: 0x7f01001b
+			public const int indeterminate_interval = 2130771995;
+			
+			// aapt resource value: 0x7f010018
+			public const int innerSize = 2130771992;
+			
+			// aapt resource value: 0x7f010002
+			public const int mapType = 2130771970;
+			
+			// aapt resource value: 0x7f010012
+			public const int max = 2130771986;
+			
+			// aapt resource value: 0x7f010019
+			public const int pinned = 2130771993;
+			
+			// aapt resource value: 0x7f010015
+			public const int pinnedDrawable = 2130771989;
+			
+			// aapt resource value: 0x7f010011
+			public const int progress = 2130771985;
+			
+			// aapt resource value: 0x7f010010
+			public const int progressButtonStyle = 2130771984;
 			
 			// aapt resource value: 0x7f010014
-			public const int unpinnedDrawable = 2130771988;
+			public const int progressColor = 2130771988;
+			
+			// aapt resource value: 0x7f010017
+			public const int shadowDrawable = 2130771991;
+			
+			// aapt resource value: 0x7f010008
+			public const int uiCompass = 2130771976;
+			
+			// aapt resource value: 0x7f010009
+			public const int uiRotateGestures = 2130771977;
+			
+			// aapt resource value: 0x7f01000a
+			public const int uiScrollGestures = 2130771978;
+			
+			// aapt resource value: 0x7f01000b
+			public const int uiTiltGestures = 2130771979;
 			
 			// aapt resource value: 0x7f01000c
-			public const int useViewLifecycle = 2130771980;
+			public const int uiZoomControls = 2130771980;
 			
 			// aapt resource value: 0x7f01000d
-			public const int zOrderOnTop = 2130771981;
+			public const int uiZoomGestures = 2130771981;
+			
+			// aapt resource value: 0x7f010016
+			public const int unpinnedDrawable = 2130771990;
+			
+			// aapt resource value: 0x7f01000e
+			public const int useViewLifecycle = 2130771982;
+			
+			// aapt resource value: 0x7f01000f
+			public const int zOrderOnTop = 2130771983;
 			
 			static Attribute()
 			{
@@ -396,8 +402,8 @@ namespace GooglePlusSignIn
 		public partial class Dimension
 		{
 			
-			// aapt resource value: 0x7f070000
-			public const int progress_inner_size = 2131165184;
+			// aapt resource value: 0x7f080000
+			public const int progress_inner_size = 2131230720;
 			
 			static Dimension()
 			{
@@ -627,11 +633,14 @@ namespace GooglePlusSignIn
 		public partial class Integer
 		{
 			
-			// aapt resource value: 0x7f080001
-			public const int circular_indeterminent_interval = 2131230721;
+			// aapt resource value: 0x7f070002
+			public const int circular_indeterminent_interval = 2131165186;
 			
-			// aapt resource value: 0x7f080000
-			public const int progressbutton_indeterminent_interval = 2131230720;
+			// aapt resource value: 0x7f070000
+			public const int google_play_services_version = 2131165184;
+			
+			// aapt resource value: 0x7f070001
+			public const int progressbutton_indeterminent_interval = 2131165185;
 			
 			static Integer()
 			{
@@ -662,26 +671,26 @@ namespace GooglePlusSignIn
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f06001a
-			public const int app_name = 2131099674;
-			
-			// aapt resource value: 0x7f060014
-			public const int auth_client_needs_enabling_title = 2131099668;
+			// aapt resource value: 0x7f06001b
+			public const int app_name = 2131099675;
 			
 			// aapt resource value: 0x7f060015
-			public const int auth_client_needs_installation_title = 2131099669;
+			public const int auth_client_needs_enabling_title = 2131099669;
 			
 			// aapt resource value: 0x7f060016
-			public const int auth_client_needs_update_title = 2131099670;
+			public const int auth_client_needs_installation_title = 2131099670;
 			
 			// aapt resource value: 0x7f060017
-			public const int auth_client_play_services_err_notification_msg = 2131099671;
+			public const int auth_client_needs_update_title = 2131099671;
 			
 			// aapt resource value: 0x7f060018
-			public const int auth_client_requested_by_msg = 2131099672;
+			public const int auth_client_play_services_err_notification_msg = 2131099672;
 			
-			// aapt resource value: 0x7f060013
-			public const int auth_client_using_bad_version_title = 2131099667;
+			// aapt resource value: 0x7f060019
+			public const int auth_client_requested_by_msg = 2131099673;
+			
+			// aapt resource value: 0x7f060014
+			public const int auth_client_using_bad_version_title = 2131099668;
 			
 			// aapt resource value: 0x7f060006
 			public const int common_google_play_services_enable_button = 2131099654;
@@ -719,14 +728,17 @@ namespace GooglePlusSignIn
 			// aapt resource value: 0x7f06000d
 			public const int common_google_play_services_unknown_issue = 2131099661;
 			
+			// aapt resource value: 0x7f060010
+			public const int common_google_play_services_unsupported_date_text = 2131099664;
+			
 			// aapt resource value: 0x7f06000f
 			public const int common_google_play_services_unsupported_text = 2131099663;
 			
 			// aapt resource value: 0x7f06000e
 			public const int common_google_play_services_unsupported_title = 2131099662;
 			
-			// aapt resource value: 0x7f060010
-			public const int common_google_play_services_update_button = 2131099664;
+			// aapt resource value: 0x7f060011
+			public const int common_google_play_services_update_button = 2131099665;
 			
 			// aapt resource value: 0x7f060008
 			public const int common_google_play_services_update_text = 2131099656;
@@ -734,14 +746,14 @@ namespace GooglePlusSignIn
 			// aapt resource value: 0x7f060007
 			public const int common_google_play_services_update_title = 2131099655;
 			
-			// aapt resource value: 0x7f060011
-			public const int common_signin_button_text = 2131099665;
-			
 			// aapt resource value: 0x7f060012
-			public const int common_signin_button_text_long = 2131099666;
+			public const int common_signin_button_text = 2131099666;
 			
-			// aapt resource value: 0x7f060019
-			public const int hello = 2131099673;
+			// aapt resource value: 0x7f060013
+			public const int common_signin_button_text_long = 2131099667;
+			
+			// aapt resource value: 0x7f06001a
+			public const int hello = 2131099674;
 			
 			static String()
 			{
@@ -793,16 +805,27 @@ namespace GooglePlusSignIn
 		public partial class Styleable
 		{
 			
+			public static int[] AdsAttrs = new int[]
+			{
+					2130771968,
+					2130771969};
+			
+			// aapt resource value: 0
+			public const int AdsAttrs_adSize = 0;
+			
+			// aapt resource value: 1
+			public const int AdsAttrs_adUnitId = 1;
+			
 			public static int[] HoloCircularProgressBar = new int[]
 			{
-					2130771994,
-					2130771995,
 					2130771996,
 					2130771997,
 					2130771998,
 					2130771999,
 					2130772000,
-					2130772001};
+					2130772001,
+					2130772002,
+					2130772003};
 			
 			// aapt resource value: 0
 			public const int HoloCircularProgressBar_circular_gravity = 0;
@@ -830,8 +853,6 @@ namespace GooglePlusSignIn
 			
 			public static int[] MapAttrs = new int[]
 			{
-					2130771968,
-					2130771969,
 					2130771970,
 					2130771971,
 					2130771972,
@@ -843,7 +864,9 @@ namespace GooglePlusSignIn
 					2130771978,
 					2130771979,
 					2130771980,
-					2130771981};
+					2130771981,
+					2130771982,
+					2130771983};
 			
 			// aapt resource value: 1
 			public const int MapAttrs_cameraBearing = 1;
@@ -892,8 +915,6 @@ namespace GooglePlusSignIn
 					16842970,
 					16842981,
 					16843534,
-					2130771983,
-					2130771984,
 					2130771985,
 					2130771986,
 					2130771987,
@@ -902,7 +923,9 @@ namespace GooglePlusSignIn
 					2130771990,
 					2130771991,
 					2130771992,
-					2130771993};
+					2130771993,
+					2130771994,
+					2130771995};
 			
 			// aapt resource value: 1
 			public const int ProgressButton_android_clickable = 1;
@@ -948,7 +971,7 @@ namespace GooglePlusSignIn
 			
 			public static int[] Theme = new int[]
 			{
-					2130772002};
+					2130772004};
 			
 			// aapt resource value: 0
 			public const int Theme_circularProgressBarStyle = 0;

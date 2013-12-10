@@ -45,13 +45,13 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
-    <Reference Include="GooglePlayServicesLib">
-      <HintPath>..\Components\googleplayservices12-12.0.0\lib\android\GooglePlayServicesLib.dll</HintPath>
-    </Reference>
     <Reference Include="com.refractored.monodroidtoolkit">
       <HintPath>..\Common\com.refractored.monodroidtoolkit.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Android.Support.v4" />
+    <Reference Include="GooglePlayServicesLib">
+      <HintPath>..\Components\googleplayservices-13.0\lib\android\GooglePlayServicesLib.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
@@ -77,16 +77,17 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
-    <XamarinComponentReference Include="googleplayservices12">
-      <Version>12.0.0</Version>
-      <Visible>False</Visible>
-    </XamarinComponentReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Resources\values-v11\" />
     <Folder Include="Resources\values-v14\" />
     <Folder Include="Resources\drawable-hdpi\" />
     <Folder Include="Resources\drawable-mdpi\" />
     <Folder Include="Resources\drawable-xhdpi\" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="googleplayservices">
+      <InstallationInProgress>True</InstallationInProgress>
+      <Version>13.0</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
   </ItemGroup>
 </Project>
